@@ -488,5 +488,9 @@ footer{
 
 	.features{
 		padding-top:50vh;
-	}
+        }
+        .footer-item span{
+               margin-right: 20%;
+        }
+
 }
