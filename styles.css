@@ -479,7 +479,7 @@ footer{
 
 	nav > img{
 		height: 20px;
-                margin-top: 5px;
+                margin-top: 15px;
 	}
 
 	.hero-img{
@@ -492,7 +492,7 @@ footer{
         }
         .footer-item span{
                margin-right: 10%;
-               margin-left: 5%;
+               margin-left: 10%;
         }
 
 }
